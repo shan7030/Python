@@ -59,6 +59,7 @@
   * [Decrypt Caesar With Chi Squared](https://github.com/TheAlgorithms/Python/blob/master/ciphers/decrypt_caesar_with_chi_squared.py)
   * [Deterministic Miller Rabin](https://github.com/TheAlgorithms/Python/blob/master/ciphers/deterministic_miller_rabin.py)
   * [Diffie](https://github.com/TheAlgorithms/Python/blob/master/ciphers/diffie.py)
+  * [Diffie Hellman](https://github.com/TheAlgorithms/Python/blob/master/ciphers/diffie_hellman.py)
   * [Elgamal Key Generator](https://github.com/TheAlgorithms/Python/blob/master/ciphers/elgamal_key_generator.py)
   * [Enigma Machine2](https://github.com/TheAlgorithms/Python/blob/master/ciphers/enigma_machine2.py)
   * [Hill Cipher](https://github.com/TheAlgorithms/Python/blob/master/ciphers/hill_cipher.py)
@@ -224,7 +225,6 @@
   * [Abbreviation](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/abbreviation.py)
   * [Bitmask](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/bitmask.py)
   * [Climbing Stairs](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/climbing_stairs.py)
-  * [Coin Change](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/coin_change.py)
   * [Edit Distance](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/edit_distance.py)
   * [Factorial](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/factorial.py)
   * [Fast Fibonacci](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/fast_fibonacci.py)
@@ -243,6 +243,7 @@
   * [Max Non Adjacent Sum](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/max_non_adjacent_sum.py)
   * [Max Sub Array](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/max_sub_array.py)
   * [Max Sum Contiguous Subsequence](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/max_sum_contiguous_subsequence.py)
+  * [Minimum Coin Change](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/minimum_coin_change.py)
   * [Minimum Cost Path](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/minimum_cost_path.py)
   * [Minimum Partition](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/minimum_partition.py)
   * [Minimum Steps To One](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/minimum_steps_to_one.py)
@@ -499,6 +500,7 @@
   * [Minimum Cut](https://github.com/TheAlgorithms/Python/blob/master/networking_flow/minimum_cut.py)
 
 ## Neural Network
+  * [2 Hidden Layers Neural Network](https://github.com/TheAlgorithms/Python/blob/master/neural_network/2_hidden_layers_neural_network.py)
   * [Back Propagation Neural Network](https://github.com/TheAlgorithms/Python/blob/master/neural_network/back_propagation_neural_network.py)
   * [Convolution Neural Network](https://github.com/TheAlgorithms/Python/blob/master/neural_network/convolution_neural_network.py)
   * [Perceptron](https://github.com/TheAlgorithms/Python/blob/master/neural_network/perceptron.py)
@@ -748,6 +750,8 @@
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_101/sol1.py)
   * Problem 102
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_102/sol1.py)
+  * Problem 107
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_107/sol1.py)
   * Problem 112
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_112/sol1.py)
   * Problem 113
